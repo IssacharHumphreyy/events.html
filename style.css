@@ -54,9 +54,9 @@ li {
 .thumbnail {
    margin-top: 100px;
    float:right;
-   margin-left:50px
+   margin-left:50px;
    margin-top: 15px;
   background: rgba(0, 0, 0 ,0.6);
-  align:center
+  vertical-align:middle;
 }
 
